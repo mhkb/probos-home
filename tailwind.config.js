@@ -9,6 +9,8 @@ module.exports = {
     extend: {
       colors: {
         trueGray: colors.neutral,
+        midnight: "#020617", // slate-950
+        "probos-green": "#10B981", // emerald-500
       },
     },
     fontFamily: {
